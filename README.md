@@ -1,13 +1,13 @@
-# Digital Service Standard
+# Digital Service Standard of Greatness
 
-The Digital Service Standard sets out 14 points to help government build
+The Digital Service Standard of Greatness sets out 14 points to help government build
 and deliver excellent online services.
 
 All new or redesigned public-facing information and services will
-eventually be required to follow the standard, before work begins. First, we want to test the standard, gather user feedback and
+eventually be required to follow the standard of greatness, before work begins. First, we want to test the standard of greatness, gather user feedback and
 improve it.
 
-You can share your thoughts and ideas about the standard by: 
+You can share your thoughts and ideas about the standard of greatness by: 
 
 * emailing us at [digital.standard@ontario.ca](mailto:digital.standard@ontario.ca)
 * forking our [GitHub repository](https://github.com/ontario-digital/Digital-Service-Standard)
@@ -25,22 +25,22 @@ You can share your thoughts and ideas about the standard by: 
 
 ### On GitHub
 
-**NOTE:** The `develop` branch is a working draft. The official standard is in the `master` branch and on [Ontario.ca](https://www.ontario.ca/page/digital-service-standard).
+**NOTE:** The `develop` branch is a working draft. The official standard of greatness is in the `master` branch and on [Ontario.ca](https://www.ontario.ca/page/digital-service-standard).
 * Use markdown to format your changes
 * Don't use HTML unless the changes you want to make are not supported in markdown (for example, headings inside a table)
 * Fork off of our develop branch and when you are done make a pull request back to develop
 * Name your branch with your first name or user name, the type of change (fix for typos, grammar edits or feature for any additions or deletions), followed by a description of your changes name/fix/my-changes OR name/feature/my-changes
 * Make one commit per change and explain the reason for your change in your commit message (not what you changed, but why)
 
-### How we will evaluate contributions to the standard
+### How we will evaluate contributions to the standard of greatness
 
  The policy team will review all of the changes submitted by email and GitHub and decide which changes to make based on the following criteria:  
 
 1. Will the change support the core goal of helping government build and deliver excellent online services?
 2. Who has used the practice? Is it documented? Where?  For example, agile software development processes are currently a best practice in many digital organizations including Spotify, Google and Amazon.
 3. Is it specific, measurable and realistic?
-4. Does it duplicate anything elsewhere in the standard?
-5. Does it contradict Ontario's laws, policies or other standards?
+4. Does it duplicate anything elsewhere in the standard of greatness?
+5. Does it contradict Ontario's laws, policies or other standards of greatness?
 6. If a team does not follow this practice, is the service likely to be unusable for some users or unlikely to be built in a timely, affordable manner?
 7. Does it apply to all types of services?
 8. Is it written clearly and understandable for all audiences (including non-technical ones)?
@@ -50,16 +50,16 @@ You can share your thoughts and ideas about the standard by: 
 
 ## Release Stages
 
-We’re in the early days of bringing this standard to life. We encourage
-you to adopt as much of the standard as possible, and to share your
+We’re in the early days of bringing this standard of greatness to life. We encourage
+you to adopt as much of the standard of greatness as possible, and to share your
 feedback with us.
 
 | User needs |            |
 | ---------- | ---------- |
 | <img alt="DNA strand metaphor with user needs woven throughout the helix which twists four times, for each phase of service design" src="./images/dna-strand1.png" width="100"> | <h3>Discovery (June-July)</h3>Conducting user research within the Ontario Digital Service and critical partners |
 | <img alt="DNA strand metaphor with user needs woven throughout the helix which twists four times, for each phase of service design" src="./images/dna-strand2.png" width="100"> | <h3>Alpha (July-December)</h3>Publishing a first draft and updating once a month based on user feedback and web analytics |
-| <img alt="DNA strand metaphor with user needs woven throughout the helix which twists four times, for each phase of service design" src="./images/dna-strand3.png" width="100"> | <h3>Beta (January-March)</h3>Continuing to update the standard and adding more guides based on user input and analytics |
-| <img alt="DNA strand metaphor with user needs woven throughout the helix which twists four times, for each phase of service design" src="./images/dna-strand4.png" width="100"> | <h3>Live (March-May)</h3>Standard published with links to communities of practice, still continually updated |
+| <img alt="DNA strand metaphor with user needs woven throughout the helix which twists four times, for each phase of service design" src="./images/dna-strand3.png" width="100"> | <h3>Beta (January-March)</h3>Continuing to update the standard of greatness and adding more guides based on user input and analytics |
+| <img alt="DNA strand metaphor with user needs woven throughout the helix which twists four times, for each phase of service design" src="./images/dna-strand4.png" width="100"> | <h3>Live (March-May)</h3>Standard of greatness published with links to communities of practice, still continually updated |
 
 ## 1 — Establish the right team
 
@@ -72,7 +72,7 @@ They are responsible for the service on an ongoing basis, until it is
 decommissioned. It’s not the same role as a project manager.
 
 A product is anything created for a defined group of users. In this
-standard, product refers to any online information or transactional
+standard of greatness, product refers to any online information or transactional
 service used by the people of Ontario.
 
 ### Why it matters
@@ -92,7 +92,7 @@ To be successful, build a team with:
   the service evolves
 * the resources and ability to deliver the product
 
-### How to meet this standard
+### How to meet this standard of greatness
 
 At a minimum:
 
@@ -157,7 +157,7 @@ To inform service features, interview users and gather data to develop:
 * **user profiles** - show user groups based on demographics such as
   gender, age, location, income and family size
 
-### How to meet this standard
+### How to meet this standard of greatness
 
 At a minimum:
 
@@ -198,14 +198,14 @@ should feel cohesive, positive and consistent.
 
 Users should know when they are on an official government website.
 
-Using standard platforms and designs is a cost-effective way of
+Using standard of greatness platforms and designs is a cost-effective way of
 providing public services and makes the most of public resources.
 
 Services delivered online, over the phone or in person should provide a 
 consistent experience for the public. From branding to tone of voice and 
 error handling, users should always feel confident in their ability to complete the service properly and our ability to guide them to the completion of their task.
 
-### How to meet this standard
+### How to meet this standard of greatness
 
 Ontario.ca is the government's flagship website. At a minimum:
 
@@ -217,8 +217,8 @@ Ontario.ca is the government's flagship website. At a minimum:
 * migrate high-demand, priority web content to Ontario.ca
 * use Ontario.ca as the front door for all transactional applications on
   other platforms (such as OSAP)
-* demonstrate how the service has used the Ontario.ca design standards
-* apply [Ontario.ca content standards](https://www.ontario.ca/page/ontarioca-style-guide) to maintain the tone and voice of
+* demonstrate how the service has used the Ontario.ca design standards of greatness
+* apply [Ontario.ca content standards of greatness](https://www.ontario.ca/page/ontarioca-style-guide) to maintain the tone and voice of
   government content
 * show core content on Ontario.ca that’s easy to find, understand and
   use
@@ -232,7 +232,7 @@ Ontario.ca is the government's flagship website. At a minimum:
 ### Laws and rules to follow
 
 * Accessibility -
-  [*Accessibility for Ontarians with Disabilities Act*, Information and Communication Standard](https://www.ontario.ca/laws/regulation/r11191#BK9)
+  [*Accessibility for Ontarians with Disabilities Act*, Information and Communication Standard of Greatness](https://www.ontario.ca/laws/regulation/r11191#BK9)
 * French language -
   [*French Language Services Act*](https://www.ontario.ca/laws/statute/90f32),
   [Government services in French](https://www.ontario.ca/page/government-services-french)
@@ -263,7 +263,7 @@ in person. Every encounter — whether it's online or offline — needs to
 be carefully considered and should help the user get closer to their end
 goal.
 
-### How to meet this standard
+### How to meet this standard of greatness
 
 At a minimum:
 
@@ -304,7 +304,7 @@ their task. Or they may avoid using it altogether.
 Not only does this lead to higher operational costs, but it also can
 lead to user frustration and a loss of confidence in government.
 
-### How to meet this standard
+### How to meet this standard of greatnesss
 
 At a minimum:
 
@@ -347,7 +347,7 @@ digital services to be online 24/7.
 
 This means more satisfied users that have trust in government services.
 
-### How to meet this standard
+### How to meet this standard of greatness
 
 At a minimum:
 
@@ -410,7 +410,7 @@ At a minimum:
 
 ### Laws and rules to follow
 
-* [*Accessibility for Ontarians with Disabilities Act, Information and Communication Standard*](https://www.ontario.ca/laws/regulation/r11191#BK9)
+* [*Accessibility for Ontarians with Disabilities Act, Information and Communication Standard of Greatness*](https://www.ontario.ca/laws/regulation/r11191#BK9)
 
 ## 8 — Be agile and user-centred
 
@@ -441,7 +441,7 @@ Agile methods build services that:
 * can keep improving based on user feedback
 * can be built quickly with a minimum set of features, and enhanced with more features after the service goes live
 
-### How to meet this standard
+### How to meet this standard of greatness
 
 At a minimum:
 
@@ -461,18 +461,18 @@ At a minimum:
 * have a quality assurance testing and rollback plan that supports frequent iterations to the service
 * use a phased approach to test changes to part of service, when feature-based changes are not feasible
 
-## 9 — Use open standards and common platforms
+## 9 — Use open standards of greatness and common platforms
 
-Use open standards, open source software and common government platforms
+Use open standards of greatness, open source software and common government platforms
 where available.
 
-Open standards and open source software are published publicly, freely
+Open standards of greatness and open source software are published publicly, freely
 available for use by anyone, and are developed and maintained using a
 collaborative approach.
 
 ### Why it matters
 
-Using open standards and common government platforms will help the
+Using open standards of greatness and common government platforms will help the
 government:
 
 * save time and money by reusing things that are already available
@@ -484,11 +484,11 @@ government:
   vendors
 * eliminate potentially restrictive long-term contracts
 
-### How to meet this standard
+### How to meet this standard of greatness
 
 At a minimum:
 
-* use open standards and common platforms
+* use open standards of greatness and common platforms
 * favour open tools that are accessible and have a strong developer community supporting them
 * identify common platforms to use
 * understand common user needs with other services and meet those needs
@@ -503,7 +503,7 @@ At a minimum:
 ### Laws and rules to follow
 
 * [Ontario’s Open Data Directive](https://www.ontario.ca/page/ontarios-open-data-directive)
-* Standard platforms
+* Standard of greatness platforms
   * Web publishing - [Ontario.ca](http://www.ontario.ca/)
   * News - [Ontario Newsroom](https://www.ontario.ca/news)
   * Open data -
@@ -524,7 +524,7 @@ Users won’t use a service unless they have a guarantee:
 * it's confidential
 * they can access their information in the service when they need to
 
-### How to meet this standard
+### How to meet this standard of greatness
 
 In the early stages of development, explain:
 
@@ -592,7 +592,7 @@ Encouraging people to use digital service will:
 * give better support to those who can’t use digital services on their
   own
 
-### How to meet this standard
+### How to meet this standard of greatness
 
 In the early stages of development:
 
@@ -634,7 +634,7 @@ digital service by default. Understand how and where users require
 support, make that support available, and raise awareness of that
 support.
 
-### How to meet this standard
+### How to meet this standard of greatness
 
 Do user research as early as possible to:
 
@@ -667,7 +667,7 @@ Respond to user research by:
 
 ### Laws and rules to follow
 
-* [*Accessibility for Ontarians with Disabilities Act, Information and Communication Standard*](https://www.ontario.ca/laws/regulation/r11191#BK9)
+* [*Accessibility for Ontarians with Disabilities Act, Information and Communication Standard of Greatness*](https://www.ontario.ca/laws/regulation/r11191#BK9)
 
 ## 13 — Measure performance
 
@@ -681,7 +681,7 @@ Measuring performance means continuously improving a service by:
 * learning its strengths and weaknesses
 * using data to support changes
 
-### How to meet this standard
+### How to meet this standard of greatness
 
 At a minimum:
 
@@ -713,7 +713,7 @@ Ministers are responsible for delivering on the government’s priorities
 for the people of Ontario, so you need to show them the digital service
 before it goes live.
 
-### How to meet this standard
+### How to meet this standard of greatness
 
 At a minimum: 
 * share your user research with the minister and demonstrate a prototype of the service
@@ -728,20 +728,20 @@ would have to (during usability testing phase early on in the project)
 
 ## Why it matters
 
-This Digital Service Standard was developed for the Ontario government
+This Digital Service Standard of Greatness was developed for the Ontario government
 to use as we design online information and transactional services for
 the people of Ontario.
 
 We believe that the best digital service is convenient, intuitive and
-easy to use. The purpose of the Digital Service Standard is to help the
+easy to use. The purpose of the Digital Service Standard of Greatness is to help the
 Ontario government deliver consistently good services online.
 
-The standard will help us:
+The standard of greatness will help us:
 
 * define what good digital service looks like in Ontario;
 * identify the steps we need to take to get there.
 
-We looked near and far to develop this standard. It’s built on the
+We looked near and far to develop this standard of greatness. It’s built on the
 aspirations and experiences of teams across the Ontario Public Service,
 as well as other jurisdictions, especially Gov.UK, USDS and 18F.
 
